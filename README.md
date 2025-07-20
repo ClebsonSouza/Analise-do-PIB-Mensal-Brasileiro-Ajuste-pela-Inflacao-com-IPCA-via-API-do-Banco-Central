@@ -7,13 +7,13 @@ pib_mensal.xls: Base de dados contendo a série histórica do PIB mensal, obtida
 
 deflator.ipynb: Notebook em Python que realiza:
 
-Leitura e pré-processamento da série histórica do PIB;
+- Leitura e pré-processamento da série histórica do PIB;
 
-Consulta ao IPCA mensal via API SGS do Banco Central do Brasil;
+- Consulta ao IPCA mensal via API SGS do Banco Central do Brasil;
 
-Cálculo do PIB real (valores deflacionados);
+- Cálculo do PIB real (valores deflacionados);
 
-Visualizações comparativas entre PIB nominal e PIB real.
+- Visualizações comparativas entre PIB nominal e PIB real.
 
 ## 🔗 API Utilizada
 Utilizamos a API de Séries Temporais (SGS) do Banco Central do Brasil para obter os valores mensais do IPCA. O código 433 é empregado para acessar o IPCA amplo consolidado. Os dados são requisitados diretamente via JSON, garantindo atualizações automatizadas e consistência metodológica.

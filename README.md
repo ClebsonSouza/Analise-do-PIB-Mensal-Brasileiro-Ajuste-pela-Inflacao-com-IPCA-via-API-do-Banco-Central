@@ -1,6 +1,6 @@
 # Análise do PIB Mensal Brasileiro: Ajuste pela Inflação com IPCA via API do Banco Central
 
-Este repositório apresenta uma análise do Produto Interno Bruto (PIB) mensal do Brasil com ajuste inflacionário, convertendo valores nominais em valores reais com base no IPCA. O objetivo é possibilitar comparações mais precisas ao longo do tempo, eliminando os efeitos da inflação.
+🔄 Este repositório tem como objetivo principal demonstrar o processo de deflação de séries temporais econômicas, convertendo valores nominais em valores reais por meio do Índice de Preços ao Consumidor Amplo (IPCA).
 
 ## 📂 Conteúdo
 pib_mensal.xls: Base de dados contendo a série histórica do PIB mensal, obtida a partir do IPEAdata.

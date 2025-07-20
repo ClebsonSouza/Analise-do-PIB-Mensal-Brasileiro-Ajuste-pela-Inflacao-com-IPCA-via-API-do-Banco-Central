@@ -1,4 +1,4 @@
-# Análise do PIB Mensal Brasileiro: Ajuste pela Inflação com IPCA via API do Banco Central
+# PIB Mensal Brasileiro: Ajuste pela Inflação com IPCA via API do Banco Central
 
 🔄 Este repositório tem como objetivo principal demonstrar o processo de deflação de séries temporais econômicas, convertendo valores nominais em valores reais por meio do Índice de Preços ao Consumidor Amplo (IPCA).
 

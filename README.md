@@ -26,13 +26,13 @@ O resultado representa o valor do PIB a preços constantes, ou seja, com o mesmo
 ## 📈 Importância da Deflação em Séries Temporais
 Trabalhar com valores nominais pode gerar interpretações distorcidas, pois aumentos nos dados podem ser explicados apenas pela inflação. A deflação permite:
 
-Comparar a evolução real da economia ao longo do tempo;
+- Comparar a evolução real da economia ao longo do tempo;
 
-Medir o poder de compra real da produção nacional;
+- Medir o poder de compra real da produção nacional;
 
-Identificar períodos de crescimento, estagnação ou recessão real;
+- Identificar períodos de crescimento, estagnação ou recessão real;
 
-Apoiar decisões econômicas e políticas públicas com base em dados consistentes.
+- Apoiar decisões econômicas e políticas públicas com base em dados consistentes.
 
 ## 📊 Análise do Gráfico: PIB Nominal x PIB Real
 

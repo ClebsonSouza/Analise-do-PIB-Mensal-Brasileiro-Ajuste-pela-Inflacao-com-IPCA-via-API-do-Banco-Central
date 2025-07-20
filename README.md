@@ -16,7 +16,7 @@ deflator.ipynb: Notebook em Python que realiza:
 - Visualizações comparativas entre PIB nominal e PIB real.
 
 ## 🔗 API Utilizada
-Utilizamos a API de Séries Temporais (SGS) do Banco Central do Brasil para obter os valores mensais do IPCA. O código 433 é empregado para acessar o IPCA amplo consolidado. Os dados são requisitados diretamente via JSON, garantindo atualizações automatizadas e consistência metodológica.
+Utilizou-se a API de Séries Temporais (SGS) do Banco Central do Brasil para obter os valores mensais do IPCA. O código 433 é empregado para acessar o IPCA amplo consolidado. Os dados são requisitados diretamente via JSON, garantindo atualizações automatizadas e consistência metodológica.
 
 # #📐 Cálculo do PIB Real (Deflacionamento)
 

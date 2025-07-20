@@ -18,7 +18,7 @@ deflator.ipynb: Notebook em Python que realiza:
 ## 🔗 API Utilizada
 Utilizou-se a API de Séries Temporais (SGS) do Banco Central do Brasil para obter os valores mensais do IPCA. O código 433 é empregado para acessar o IPCA amplo consolidado. Os dados são requisitados diretamente via JSON, garantindo atualizações automatizadas e consistência metodológica.
 
-# #📐 Cálculo do PIB Real (Deflacionamento)
+## 📐 Cálculo do PIB Real (Deflacionamento)
 
 O processo de deflação consiste em corrigir os valores nominais do PIB pela inflação, convertendo todos os valores para uma mesma base de comparação.
 O resultado representa o valor do PIB a preços constantes, ou seja, com o mesmo poder de compra de junho/2025.

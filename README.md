@@ -2,7 +2,7 @@
 
 Este repositório apresenta uma análise do Produto Interno Bruto (PIB) mensal do Brasil com ajuste inflacionário, convertendo valores nominais em valores reais com base no IPCA. O objetivo é possibilitar comparações mais precisas ao longo do tempo, eliminando os efeitos da inflação.
 
-##📂 Conteúdo
+## 📂 Conteúdo
 pib_mensal.xls: Base de dados contendo a série histórica do PIB mensal, obtida a partir do IPEAdata.
 
 deflator.ipynb: Notebook em Python que realiza:

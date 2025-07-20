@@ -15,15 +15,15 @@ Cálculo do PIB real (valores deflacionados);
 
 Visualizações comparativas entre PIB nominal e PIB real.
 
-##🔗 API Utilizada
+## 🔗 API Utilizada
 Utilizamos a API de Séries Temporais (SGS) do Banco Central do Brasil para obter os valores mensais do IPCA. O código 433 é empregado para acessar o IPCA amplo consolidado. Os dados são requisitados diretamente via JSON, garantindo atualizações automatizadas e consistência metodológica.
 
-##📐 Cálculo do PIB Real (Deflacionamento)
+# #📐 Cálculo do PIB Real (Deflacionamento)
 
 O processo de deflação consiste em corrigir os valores nominais do PIB pela inflação, convertendo todos os valores para uma mesma base de comparação.
 O resultado representa o valor do PIB a preços constantes, ou seja, com o mesmo poder de compra de junho/2025.
 
-##📈 Importância da Deflação em Séries Temporais
+## 📈 Importância da Deflação em Séries Temporais
 Trabalhar com valores nominais pode gerar interpretações distorcidas, pois aumentos nos dados podem ser explicados apenas pela inflação. A deflação permite:
 
 Comparar a evolução real da economia ao longo do tempo;
@@ -34,7 +34,7 @@ Identificar períodos de crescimento, estagnação ou recessão real;
 
 Apoiar decisões econômicas e políticas públicas com base em dados consistentes.
 
-##📊 Análise do Gráfico: PIB Nominal x PIB Real
+## 📊 Análise do Gráfico: PIB Nominal x PIB Real
 
 O gráfico acima evidencia a diferença entre os valores nominais (linha azul) e reais (linha verde com marcadores) do PIB mensal:
 

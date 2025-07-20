@@ -36,17 +36,17 @@ Trabalhar com valores nominais pode gerar interpretações distorcidas, pois aum
 
 ## 📊 Análise do Gráfico: PIB Nominal x PIB Real
 
-O gráfico acima evidencia a diferença entre os valores nominais (linha azul) e reais (linha verde com marcadores) do PIB mensal:
+O gráfico final evidencia a diferença entre os valores nominais (linha azul) e reais (linha verde com marcadores) do PIB mensal:
 
-A linha azul (PIB Nominal) apresenta crescimento contínuo, impulsionado tanto pelo aumento da atividade econômica quanto pela inflação acumulada.
+- A linha azul (PIB nominal) mostra um crescimento acentuado ao longo dos anos, refletindo não apenas a expansão econômica, mas também o efeito cumulativo da inflação.
 
-A linha verde (PIB Real) mostra o comportamento do PIB ajustado, revelando:
+- A linha verde (PIB real) ajusta esse crescimento ao descontar a inflação, revelando que:
 
-Crescimento mais moderado;
+- O crescimento real é mais moderado;
 
-Períodos de estagnação e retração não visíveis na série nominal;
-
-Um desempenho mais realista da economia.
+- Há períodos de estagnação ou retração real que não seriam visíveis apenas com os dados nominais;
 
 🔍 O encontro entre as duas curvas no final da série ocorre porque todos os valores foram corrigidos com base no mês de junho de 2025, ou seja, expressos no poder de compra daquele período.
+
+Essa defasagem entre PIB nominal e real é fundamental para compreender o comportamento real da economia e subsidiar decisões fundamentadas em dados consistentes.
 
